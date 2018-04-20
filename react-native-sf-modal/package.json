@@ -1,0 +1,23 @@
+{
+  "name": "react-native-sf-modal",
+  "version": "1.0.0",
+  "description": "消息提示,信息提示",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DLSoftFun/react-native-sf-modal.git"
+  },
+  "keywords": [
+    "modal",
+    "react-native-sf-modal"
+  ],
+  "author": "hzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DLSoftFun/react-native-sf-modal.git/issues"
+  },
+  "homepage": "https://github.com/DLSoftFun/react-native-sf-modal#readme"
+}
