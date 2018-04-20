@@ -2,7 +2,7 @@
 
 # 提示信息,消息
 
-![show](./Simulator Screen Shot - iPhone 8 Plus - 2018-04-20 at 10.40.52.png)
+![show](./Simulator Screen Shot - iPhone 8 Plus - 2018-04-20 at 10.30.03.png)
 ![show](./Simulator Screen Shot - iPhone 8 Plus - 2018-04-20 at 10.40.53.png)
 ![show](./Simulator Screen Shot - iPhone 8 Plus - 2018-04-20 at 10.40.54.png)
 
