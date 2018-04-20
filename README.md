@@ -6,6 +6,7 @@
 
 # 安装
 > npm install react-native-sf-modal
+
 > npm install andt-mobile --save
 
 # Props
