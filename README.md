@@ -2,7 +2,7 @@
 
 # 提示信息,消息
 
-![show](./p1.png)![show](./p2.png)![show](./p3.png)
+![show](./p1.png) ![show](./p2.png) ![show](./p3.png)
 
 # 安装
 > npm install react-native-sf-modal
